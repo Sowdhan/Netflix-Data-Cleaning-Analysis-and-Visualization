@@ -6,7 +6,7 @@ This project focuses on analyzing the **Netflix dataset** and building a **conte
 
 ## 📂 Project Files
 - `Netflix_Data_Analysis_and_Recommendation.ipynb` → Jupyter Notebook with analysis & recommendation system
-- `netflix1.csv` (if included) → Dataset
+- `netflix1.csv` → Dataset
 
 ---
 
